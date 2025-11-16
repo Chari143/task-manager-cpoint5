@@ -1,6 +1,13 @@
-# ./frontend/.env
+# Frontend
+# /frontend/.env
 /frontend/.next
 /frontend/node_modules
 
-# ./backend/.env
+# Backend
+# /backend/.env
 /backend/node_modules
+/backend/dist
+
+# OS / misc
+.DS_Store
+/cookie.txt
